@@ -1,0 +1,7 @@
+export {default as Navbar} from "./navbar/Navbar"
+export {default as Header} from "./header/Header"
+export {default as Featurs} from "./featurs/Featurs"
+export {default as Download} from "./download/Download"
+export {default as Subscribe} from "./subscribe/Subscribe"
+export {default as Faq} from "./faq/Fag"
+export {default as Footer} from "./footer/Footer"
