@@ -13,7 +13,7 @@ function App() {
       </header>
       <Featurs/>
       <Download/>
-      <Subscribe/>
+{/*       <Subscribe/> */}
       <Faq/>
       <Footer/>
       
